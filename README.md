@@ -53,7 +53,7 @@ Apple-Social-Media-Analytics/
 
 **Raw Data → Data Cleaning → Metric Calculation → Pivot Analysis → Visualization → Insights → Recommendations**
 
-## 🧹 1. Data Preprocessing
+##  1. Data Preprocessing
 
 The raw data was cleaned and prepared before analysis.
 
@@ -68,7 +68,7 @@ Key activities included:
 
 The purpose of preprocessing was to improve data consistency and ensure that the analysis was based on clean and usable data.
 
-## 📊 2. Engagement Analysis
+##  2. Engagement Analysis
 
 Engagement was analyzed at the post level to identify high-performing content.
 
@@ -83,7 +83,7 @@ The analysis included:
 * Comparing engagement across content types
 * Using Pivot Tables and Pivot Charts for summary analysis
 
-## 🌐 3. Platform Analysis
+##  3. Platform Analysis
 
 The project compares **Instagram, Twitter/X, YouTube, and LinkedIn**.
 
@@ -96,7 +96,7 @@ Key findings from the project dataset include:
 
 This indicates that platform performance depends on the KPI being measured.
 
-## #️⃣ 4. Hashtag & Content Analysis
+##  4. Hashtag & Content Analysis
 
 Hashtags were analyzed based on both usage frequency and click activity.
 
@@ -107,7 +107,7 @@ In the project dataset:
 
 Content types such as **images, videos, tweets, and carousels** were compared across platforms to understand platform-specific content performance.
 
-## 📣 5. Campaign Effectiveness Analysis
+##  5. Campaign Effectiveness Analysis
 
 The project evaluates campaigns including:
 
@@ -135,7 +135,7 @@ Using this project-defined metric, the **Sustainability Awareness Drive** had th
 
 > **Note:** This is an exposure-efficiency metric defined by the project and should not be interpreted as conventional financial ROI based on profit.
 
-## 👥 6. Follower Growth & Retention Analysis
+##  6. Follower Growth & Retention Analysis
 
 Follower growth was analyzed using:
 
